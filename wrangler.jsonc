@@ -14,18 +14,14 @@
       "database_name": "srfab",
       "database_id": "aba2d847-9726-4366-ad1b-3cf1240469e8"
     }
-  ]
-}
-{
-  // ...
+  ],
   "vars": {
     "BACKUP_KEY": "qjv7Qp5bdNsfav-shoi98t2m-kuwx1ta",
-    "PHONEPE_ENV": "snadbox",
+    "PHONEPE_ENV": "sandbox",
     "PHONEPE_WEBHOOK_PASS": "8uwTm9y4caeeEuKxmrBy-bIk",
     "PHONEPE_WEBHOOK_USER": "srfabhook",
     "SESSION_SECRET": "StC1_yQX2dCsulGNGfqopC5hVsi0Hfj9kOPojySYaZ4uRGfnISGKbJzyUJRGBw4-",
     "SHOP_MOBILE": "7620250921",
     "SHOP_PASSWORD": "SRFAB@202616"
-  },
-  // ...
+  }
 }
